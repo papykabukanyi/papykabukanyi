@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with Authetification
 - 💬 Ask me about My Favorite language
 - 📫 How to reach me: papykabukanyi@gmail.com
-- 😄 Pronouns: Papy
+- 😄 Pronounce: Papy (PAA-PEE)
 - ⚡ Fun fact: I love coding at night.
 
 
