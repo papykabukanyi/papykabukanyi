@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on API's & NFT generator
+- 🔭 I’m currently working on The ETH Blockchain, API's & NFT generator
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Finance solutions & Website creation with database and API
 - 🤔 I’m looking for help with Authetification
