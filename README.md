@@ -1,4 +1,4 @@
-<p align="right" style="text-align:center">
+<p align="center">
   Visitor count  🙌<br><br>
   <img src="https://profile-counter.glitch.me/papykabukanyi/count.svg" />
 </p>
