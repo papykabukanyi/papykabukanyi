@@ -9,7 +9,8 @@
 <h1>Republic Democratic of Congo</h1>
 <img src="https://s3.amazonaws.com/images.wpr.com/flag-pages/svg/cd.svg"
      alt="CONGO"
-     style="opacity: 0.50;" width=700px height=300px/>
+     style="opacity: 0.50;" width=550
+     px height=300px/>
 </div>
 <!-- 
 <div style="font-size:60px;">
