@@ -9,13 +9,12 @@
 >> <h6><strong>Nelson Mandela</strong> <em>1918-2013 RIP</em></h6>
 
 <br>
-<h1 align="Left" style="color:gray;font-weight:700;font-size:60px;opacity: 0.40;">HELLO</h1>
-<h1 align="right" style="color:gray;font-weight:700;font-size:60px;opacity: 0.50;">IM PAPY KABUKANYI</h1>
 
-<div align="right">
+<div>
+<h1 align="right" style="color:gray;font-weight:700;font-size:60px;opacity: 0.40;">HELLO</h1><h1 align="right" style="color:gray;font-weight:700;font-size:60px;opacity: 0.50;">IM PAPY KABUKANYI</h1><div align="right">
 <h3>Currently working at Lendio & Manage KBKNY</h1>
 </div>
-
+</div>
 
 <div align="right">
 
